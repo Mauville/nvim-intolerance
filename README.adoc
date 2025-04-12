@@ -1,0 +1,20 @@
+﻿= nvim-intolerance
+:imagesdir: imagedir
+
+A light colorscheme for people intolerant to pastels/concepts/flavor-of-the-month.
+
+This is a highly readable (3.5+ in readability colors) and full contrast colorscheme.
+
+It's meant to get out of your way and just let you read and focus on code. My objective with it, is for you to get tired of it in a year or two, and find nothing that comes close to legibility and integration.
+
+It's mainly made with Asciidoctor, Python, JS and HTML in mind. Other languages are obviously supported, but I've optimized legibility on the former.
+
+Intolerance design is based on Atelier-SulphurPool. I've warmed the tones, and increased the contrast on some colors.
+
+I can suggest https://github.com/ray-x/aurora[aurora] for your dark needs.
+
+image::img_README_1.png[loading=lazy]
+
+image::img_README_2.png[loading=lazy]
+
+image::img_README_3.png[loading=lazy]
