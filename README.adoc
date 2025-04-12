@@ -13,6 +13,23 @@ Intolerance design is based on Atelier-SulphurPool. I've warmed the tones, and i
 
 I can suggest https://github.com/ray-x/aurora[aurora] for your dark needs.
 
+Other themes that fulfill this colorscheme raison d'etre:
+
+
+* AtelierHeath
+* Atelier_ForestLight
+* Atelier_SulphurPoolLight
+* base16-ateliersulphurpool
+* base16-railscasts
+* bluedrake
+* paramount
+* pencil
+* saturn
+* seagull
+* simplon
+* tolerable
+
+
 image::img_README_1.png[loading=lazy]
 
 image::img_README_2.png[loading=lazy]
